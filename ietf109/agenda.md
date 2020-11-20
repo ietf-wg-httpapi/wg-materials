@@ -19,7 +19,11 @@ Friday November 20th, 2020 7:30am UTC
 
 ### Rate Limit Headers - Roberto Polli
 
-https://ioggstream.github.io/draft-polli-ratelimit-headers/draft-polli-ratelimit-headers.html
+co-editor: Alex Martinez
+
+RateLimit Headers - [editor-copy](https://ioggstream.github.io/draft-polli-ratelimit-headers/draft-polli-ratelimit-headers.html)
+-
+[slides](httpapi-wg-ratelimit-headers.pdf)
 
 ### Deprecation Header - Erik Wilde
 
