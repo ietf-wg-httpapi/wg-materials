@@ -1,12 +1,12 @@
-HTTPAPI WG Meeting - IETF 109
+# HTTPAPI WG Meeting - IETF 109 Minutes
+
 Friday November 20th, 2020 7:30am UTC
-Chairs: Darrel Miller, Rich Salz
 
-Meetecho: https://az.conf.meetecho.com/conference/?group=httpapi
-Jabber: httpapi@jabber.ietf.org
-Minutes: https://codimd.ietf.org/notes-ietf-109-httpapi
+* Chairs: Darrel Miller, Rich Salz
+* Meetecho: https://az.conf.meetecho.com/conference/?group=httpapi
+* Jabber: httpapi@jabber.ietf.org
+* Minutes: https://codimd.ietf.org/notes-ietf-109-httpapi
 
-# Agenda
 
 ## Administrivia
 
@@ -15,7 +15,7 @@ Minutes: https://codimd.ietf.org/notes-ietf-109-httpapi
 - Jabber Scribe - Mark Nottingham
 - GitHub Use
 
-### Agenda bash:
+### Agenda bash
 
 Mark Nottingham: might be good to have a discussion to set expectations about how drafts get adopted in the working group and the process for that.
 
@@ -41,7 +41,7 @@ Barry Leiba: documents may change a lot once adopted to the working group!  Ther
 
 Mark: when we adopt a document we have to check with Barry as AD.  With HTTP working group hat on, would help if there's coordination between the two.  Can do that at a chair level.
 
-#### Questions:
+#### Questions
 
 Yaron Sheffer: can you please repeat the timeline for the working group (milestones)
 
@@ -61,7 +61,7 @@ One repo for each document, one for meeting materials.
 
 See `quicwg` and `httpwg` usage for how tooling is used there.
 
-#### Questions:
+#### Questions
 
 Yaron Sheffer: existance of working group with a doomsday condition in the charter is a strong incentive to create standards, so if we create a bunch of useless HTTP APIs, it could create damage.  Do we have processes to make sure there's wide consensus before we adopt or standardise things?
 
@@ -73,7 +73,8 @@ Rich: we've used half our time, we can discuss more on the mailing list.
 
 ## Drafts to consider adopting
 
-- Rate Limit Headers - Roberto Polli
+### Rate Limit Headers - Roberto Polli
+
 https://ioggstream.github.io/draft-polli-ratelimit-headers/draft-polli-ratelimit-headers.html
 
 * from the Italian government
@@ -102,7 +103,8 @@ Show of hands!
 
 Rich: Will confirm adoption request on the list.
 
-- Deprecation Header - Erik Wilde
+### Deprecation Header - Erik Wilde
+
 https://tools.ietf.org/html/draft-dalal-deprecation-header-03
 
 Erik: works in API design company, looking for patterns for APIs.
@@ -119,7 +121,8 @@ Any concerns about it being adopted?  None
 Rich: will call for adoption on the list.
 
 
-- Linkset media types and link relation - Erik Wilde
+### Linkset media types and link relation - Erik Wilde
+
 https://www.ietf.org/archive/id/draft-wilde-linkset-07.txt
 
 Comments:
@@ -133,7 +136,8 @@ There's also another document that's trying to do similar things.
 
 Rich: will provisionally take to the list, will need to resolve the duplication and the competing document.
  
-- Content-Warning Header - Erik Wilde
+### Content-Warning Header - Erik Wilde
+
 https://tools.ietf.org/html/draft-cedik-http-warning-02#section-1
 
 Some condition wasn't exactly as it should be, but not an error.
@@ -151,6 +155,5 @@ Chris Lemmons: is this exclusively for JSON documents?  It's not clear to me if 
 Rich: Will need to take discussion to the mailing list, won't call for adoption yet.
 
 Final call for action: tell your colleagues that this group exists.
-
 
 
