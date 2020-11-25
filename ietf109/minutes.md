@@ -94,7 +94,10 @@ Rich: we've used half our time, we can discuss more on the mailing list.
 
 ### Rate Limit Headers - Roberto Polli
 
-https://ioggstream.github.io/draft-polli-ratelimit-headers/draft-polli-ratelimit-headers.html
+RateLimit Headers - [editor-copy](https://ioggstream.github.io/draft-polli-ratelimit-headers/draft-polli-ratelimit-headers.html)
+-
+[slides](httpapi-wg-ratelimit-headers.pdf)
+
 
 * from the Italian government
 * widespread support
