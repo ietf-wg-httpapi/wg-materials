@@ -14,5 +14,7 @@ Friday March 12th, 2020 16:00 UTC
 - Note-taker
 - Jabber Scribe
 
-## 
+## Presentation Links
+
+- [The Deprecation HTTP Header Field (`draft-ietf-httpapi-deprecation-header`), Erik Wilde](http://dret.net/lectures/ietf-110/#deprecation)
 
