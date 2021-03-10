@@ -13,8 +13,17 @@ Friday March 12th, 2020 16:00 UTC
 - Note well
 - Note-taker
 - Jabber Scribe
+- Agenda bashing
+## Draft Updates
 
-## Presentation Links
+- Rate Limit Headers - Darrel Miller on behalf of Roberto Polli https://github.com/ietf-wg-httpapi/ratelimit-headers
 
 - [The Deprecation HTTP Header Field (`draft-ietf-httpapi-deprecation-header`), Erik Wilde](http://dret.net/lectures/ietf-110/#deprecation)
+- Linkset – Erik Wilde https://datatracker.ietf.org/doc/draft-ietf-httpapi-linkset/
+- Problem Details (bis) – Sanjay Dalal https://github.com/ietf-wg-httpapi/rfc7807bis
 
+## Drafts to consider adopting
+- Content-Warning Header – Erik Wilde https://datatracker.ietf.org/doc/draft-cedik-http-warning/
+## Discussions
+
+- JSON Type Registry Discussion – Darrel Miller
