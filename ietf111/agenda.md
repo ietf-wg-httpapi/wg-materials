@@ -13,6 +13,7 @@ Tuesday July 27th 14:30 PST
 - Note-taker
 - Jabber Scribe
 - Agenda bashing
+
 Slides: https://github.com/ietf-wg-httpapi/wg-materials/blob/main/ietf111/chair-slides.pdf
 
 
