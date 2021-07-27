@@ -16,6 +16,18 @@ Tuesday July 27th 14:30 PST
 
 ## Draft Updates
 
+## Last call for Linkset draft-ietf-httpapi-linkset-03
+https://datatracker.ietf.org/doc/draft-ietf-httpapi-linkset/
+
+## Update on RFC7807bis (Mark Nottingham)
+https://datatracker.ietf.org/doc/draft-ietf-httpapi-rfc7807bis/
+
+## Introduction to Idempotency Key draft (Sanjay Dalal)
+https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/
+
+## Other documents
+https://datatracker.ietf.org/doc/draft-ietf-httpapi-deprecation-header/
+https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/
 
 ## Discussions
 
