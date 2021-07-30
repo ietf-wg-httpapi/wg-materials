@@ -4,6 +4,8 @@
 * Chairs: Darrel Milller, Rich Salz
 * Secretary: Mark Nottingham
 
+* Note taker: Mike Bishop
+
 
 ## Last call for Linkset draft-ietf-httpapi-linkset-03 (Darrel Miller)
 
