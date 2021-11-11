@@ -22,6 +22,7 @@ Slides: [https://docs.google.com/presentation/d/1ThpDhmZVV2fCavk5aOm2YIG3Q9mGnQL
 Review of existing documents (90 minutes total; 10-15 each doc)
 -	Link Template https://datatracker.ietf.org/doc/html/draft-nottingham-link-template-03
 -	Deprecation Header https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-deprecation-header-02
+  - Slides from dret on these two are at http://dret.net/lectures/ietf-112/#
 -	Idempotency Key https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header
 -	Linkset https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-linkset-04 (done, ready to advance?)
 -	Ratelimit headers https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-ratelimit-headers-01 
