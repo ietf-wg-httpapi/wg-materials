@@ -14,7 +14,7 @@ Friday November 12th 12:00 UTC
 - Jabber Scribe
 - Agenda bashing
 
-Slides: [insert URL here]
+Slides: [https://docs.google.com/presentation/d/1ThpDhmZVV2fCavk5aOm2YIG3Q9mGnQLgUllF8W-Sxn4/edit#slide=id.ge6552f3472_0_2]
 
 
 ## Draft Updates
