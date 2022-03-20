@@ -1,4 +1,4 @@
-# HTTPAPI WG Meeting - IETF 112
+# HTTPAPI WG Meeting - IETF 113
 
 Thursday March 24th 09:00 UTC  (10:00 Europe/Vienna)
 
@@ -16,16 +16,25 @@ Thursday March 24th 09:00 UTC  (10:00 Europe/Vienna)
 
 Slides: []
 
+## WG Document Presentations
 
-## Draft Updates
+- RateLimit Field for HTTP; [ratelimit-headers](https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/) – Roberto Polli
+- REST API mediatypes; [rest-api-mediatypes](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rest-api-mediatypes/) – Roberto Polli
+- Using The Date Header Field in HTTP Requests [date-requests](https://datatracker.ietf.org/doc/html/draft-thomson-httpapi-date-requests) – Martin Thompson
 
-- RateLimit Field for HTTP; ratelimit-headers – Roberto Polli
-- REST API mediatypes; rest-api-mediatypes – Roberto Polli
-- Problem Details for HTTP APIs; rfc7807bis – Mark Nottingham
-- Using The Date Header Field in HTTP Requests – Martin Thompson
+## WG Documents - Status Update
+
+- [Linkset](https://datatracker.ietf.org/doc/draft-ietf-httpapi-linkset/) 
+- [Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rfc7807bis/)
+- [Idempotency Key](https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/) - Currently expired. Current status?
+- [Deprecation Header](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-deprecation-header)
+
+## Proposed WG Documents
+
+- [Link Template](https://datatracker.ietf.org/doc/html/draft-nottingham-link-template-03) - Call for adoption on list
+- [Health Check](https://datatracker.ietf.org/doc/html/draft-inadarei-api-health-check-06)
 
 ## Discussions/Any Other Business
 
--	Linkset - Status Update
--	Idempotency Key - Current status?
--	Link Template Call for adoption?
+- Setup Twitter bot
+
