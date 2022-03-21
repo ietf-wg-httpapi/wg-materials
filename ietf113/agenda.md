@@ -20,7 +20,6 @@ Slides: []
 
 - RateLimit Field for HTTP; [ratelimit-headers](https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/) – Roberto Polli
 - REST API mediatypes; [rest-api-mediatypes](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rest-api-mediatypes/) – Roberto Polli
-- Using The Date Header Field in HTTP Requests [date-requests](https://datatracker.ietf.org/doc/html/draft-thomson-httpapi-date-requests) – Martin Thompson
 
 ## WG Documents - Status Update
 
@@ -31,6 +30,7 @@ Slides: []
 
 ## Proposed WG Documents
 
+- Using The Date Header Field in HTTP Requests [date-requests](https://datatracker.ietf.org/doc/html/draft-thomson-httpapi-date-requests) – Martin Thompson
 - [Link Template](https://datatracker.ietf.org/doc/html/draft-nottingham-link-template-03) - Call for adoption on list
 - [Health Check](https://datatracker.ietf.org/doc/html/draft-inadarei-api-health-check-06)
 
