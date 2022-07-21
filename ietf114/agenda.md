@@ -25,7 +25,7 @@ Slides: []
 
 - [Linkset](https://datatracker.ietf.org/doc/draft-ietf-httpapi-linkset/) 
 - [Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rfc7807bis/)
-- [Idempotency Key](https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/) - Currently expired. Current status?
+- [Idempotency Key](https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/) 
 - [Deprecation Header](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-deprecation-header)
 - [Link Template](https://datatracker.ietf.org/doc/html/draft-nottingham-link-template-03) 
 
