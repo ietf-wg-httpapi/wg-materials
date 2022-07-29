@@ -19,7 +19,9 @@ Slides: []
 ## WG Document Presentations
 
 - RateLimit Field for HTTP; [ratelimit-headers](https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/) – Roberto Polli
-- Yaml mediatype; [yaml-mediatypes](https://ietf-wg-httpapi.github.io/mediatypes/draft-ietf-httpapi-yaml-mediatypes.html) – Roberto Polli
+  [slides](2022-07-ietf114-httpapi-ratelimit.pdf)
+- YAML mediatype; [yaml-mediatypes](https://ietf-wg-httpapi.github.io/mediatypes/draft-ietf-httpapi-yaml-mediatypes.html) – Roberto Polli
+  [slides](2022-07-ietf114-httpapi-mediatype.pdf)
 
 ## WG Documents - Status Update
 
