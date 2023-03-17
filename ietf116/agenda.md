@@ -17,11 +17,11 @@ Monday, March 27, 2023, 04:00-06:00 UTC
 
 ## WG Documents - Status Update
 
--[Link-Template HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-link-template/) Submitted; pinged for update
+-[Link-Template HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-link-template/) Submitted; hand-off being decided
 
 - [Problem Details](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rfc7807bis/) Waiting for announcement
 
-- [YAML Media Type](https://datatracker.ietf.org/doc/draft-ietf-httpapi-yaml-mediatypes/) Submitted; pinged for update
+- [YAML Media Type](https://datatracker.ietf.org/doc/draft-ietf-httpapi-yaml-mediatypes/) Submitted; hand-off being decided
 
 ## WG Document Presentations
 
