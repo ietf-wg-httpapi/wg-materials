@@ -10,6 +10,8 @@ Minutes: https://codimd.ietf.org/notes-ietf-116-httpapi
 - Zulip/Meetecho Scribe
 - Agenda bashing
 
+Chat log (raw JSON) is at https://datatracker.ietf.org/meeting/116/materials/chatlog-116-httpapi-202303271300-00
+
 ## WG Documents - Status Update
 
 - Link-Template HTTP Header Field Submitted
@@ -44,6 +46,7 @@ Binary makes it clear to remove strings and not be case-sensitive, string compar
 
 Justin: as someone coming from the outside, UUIDs as binary seems wierd to me.
 Rich (as an individual): agree with Justin.
+Sanjay in chat: thanks @darrel for prototyping for binary vs string structure field. i do not have strong opinion on this as far as while debugging and searching logs while doing root cause analysis.
 
 **To be confirmed (sf-string) on the list.** Have another draft, then go to WGLC by end of April.
 
@@ -59,6 +62,8 @@ Erik: Sunset header used old-fashioned string format/syntax for dates. That was 
 Darrel: Do you know current state of sf-bis document, which defines dates?
 MNot: strong consensus about the right way to do it, the draft (sf-bis) is nearing completion. In London we talked here about takling a step back and looking at the whole lifecycle.  Not much discussion. Any views?
 Erik: I think an API lifecycle header field is interesting, but would stop Deprecation work, and seems like much more work. I agree it would be interesting, but I think it's just an idea.
+Sanjay: Deprecation headers and sunset headers are like warning signs informing about respective events. If those dates are in human readable, it would help.
+Regardless lifecycle or individual events, date is important for these events. so format for date is important to resolve.
 Rich: what impact doeds this have on user-agent/client connecting to a server?
 MNot: that is the key question; this is often not a user in front of a browser.
 Darrel: In our code we log/report uses that trigger deprecation fields.
@@ -69,6 +74,7 @@ MNot: But should we move it forward just for inertia?
 Q Misell: Agree with Mark.
 Darrel: There is existing use; can we document current practice or be more forward looking?
 MNot: We're going between two paths, documenting practice or moving the indjustry forward?
+Sanjay: I like distinct events that these 2 headers are conveying in a very scoped manner. are other events in lifecycle clearly defined. for example some call alfa, beta, some call eap, some call ga, some would say something else.
 Santario: Darrel it's out in the wild, do you have numbers?
 Darrel: Can't say more than "non-trivial amount", sorry If they're already using it succesfully do we need to write a spec?
 MNot: It's different for APIs which are can be implemented in one place, not necessarily in generic tools. I'd be more comfortable if we looked around first.
