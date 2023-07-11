@@ -19,7 +19,7 @@ Thursday, Julye 27, 2023 16:30-18:30 UTC
 
 - [YAML Media Type](https://datatracker.ietf.org/doc/draft-ietf-httpapi-yaml-mediatypes/) In RFC Editor Queue
 
--[Link-Template HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-link-template/) Revised I-D needed. Mark, update or need help?
+- [Link-Template HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-link-template/) Revised I-D needed. Mark, update or need help?
 
 - [Problem Details](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rfc7807bis/) Waiting for announcement
 
@@ -47,7 +47,7 @@ Thursday, Julye 27, 2023 16:30-18:30 UTC
 
 ## New docs
 
-### (api-catalog)[https://datatracker.ietf.org/doc/draft-smith-api-catalog/]; Kevin Smith, Vodafone
+- (api-catalog)[https://datatracker.ietf.org/doc/draft-smith-api-catalog/]; Kevin Smith, Vodafone
 - What about service descriptions?
 
 ## Discussions/Any Other Business
