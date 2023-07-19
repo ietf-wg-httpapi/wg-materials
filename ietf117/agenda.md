@@ -1,6 +1,6 @@
 # HTTPAPI WG Meeting - IETF 117
 
-Thursday, Julye 27, 2023 16:30-18:30 UTC
+Thursday, July 27, 2023 16:30-18:30 UTC
 
 * Chairs: Darrel Miller, Rich Salz
 * Meetecho: https://gce.conf.meetecho.com/conference/?group=httpapi
@@ -31,7 +31,7 @@ Thursday, Julye 27, 2023 16:30-18:30 UTC
 - David Benjamin asks about adopting this to handle POST
 
 ### [Rate Limit Headers](https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/)
-- Darrel has a policy PR in progress.
+- Proposal for "policy" identifer.
 
 ### [REST API Media Types](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rest-api-mediatypes/)
 - Split this?
