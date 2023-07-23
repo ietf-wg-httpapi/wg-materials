@@ -54,3 +54,5 @@ Thursday, July 27, 2023 16:30-18:30 UTC
 
 ## Discussions/Any Other Business
 
+- (Link hints)[https://datatracker.ietf.org/doc/draft-nottingham-link-hint/]; Mark Nottingham
+- Adoption?
