@@ -47,8 +47,10 @@ Thursday, July 27, 2023 16:30-18:30 UTC
 
 ## New docs
 
-- (api-catalog)[https://datatracker.ietf.org/doc/draft-smith-api-catalog/]; Kevin Smith, Vodafone
-- What about service descriptions?
+- [api-catalog](https://datatracker.ietf.org/doc/draft-smith-api-catalog/) Kevin Smith, Vodafone
+-   What about service descriptions?
+- [Relative JSON Pointer](https://datatracker.ietf.org/doc/html/draft-hha-relative-json-pointer-00) Henry Andrews
+
 
 ## Discussions/Any Other Business
 
