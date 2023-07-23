@@ -19,16 +19,18 @@ Thursday, July 27, 2023 16:30-18:30 UTC
 
 - [YAML Media Type](https://datatracker.ietf.org/doc/draft-ietf-httpapi-yaml-mediatypes/) In RFC Editor Queue
 
-- [Link-Template HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-link-template/) Revised I-D needed. Mark, update or need help?
+- [Link-Template HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-link-template/) Revised I-D needed. Waiting on sfBis for internationalization.
 
-- [Problem Details](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rfc7807bis/) Waiting for announcement
+- [Problem Details](https://datatracker.ietf.org/doc/draft-ietf-httpapi-rfc7807bis/) Waiting for announcement. RFC
+
+- Other documents. Status https://ietf-wg-httpapi.github.io/ Issues: https://github.com/orgs/ietf-wg-httpapi/projects/1
 
 ## WG Document Presentations
 
-### Byte Range Patch; Austin William Wright
+### [Byte Range Patch](https://www.ietf.org/archive/id/draft-wright-http-patch-byterange-03.html); Austin William Wright
 
 ### [The Idempotency-Key HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/)
-- David Benjamin asks about adopting this to handle POST
+- David Benjamin asks if generic clients can use Idempotency Key without apriori knowledge of server support. https://github.com/ietf-wg-httpapi/idempotency/pull/27/files
 
 ### [Rate Limit Headers](https://datatracker.ietf.org/doc/draft-ietf-httpapi-ratelimit-headers/)
 - Proposal for "policy" identifer.
@@ -41,18 +43,17 @@ Thursday, July 27, 2023 16:30-18:30 UTC
 - Do we expand this to cover general lifecycle? (See previous question)
 - If not, we mark this as parked?
 
-### [drqaft-ietf-httpapi-authentication-link](https://datatracker.ietf.org/doc/draft-ietf-httpapi-authentication-link/)
-
+### [draft-ietf-httpapi-authentication-link](https://datatracker.ietf.org/doc/draft-ietf-httpapi-authentication-link/)
 - Updates?
 
-## New docs
+## New docs (20mins)
 
 - [api-catalog](https://datatracker.ietf.org/doc/draft-smith-api-catalog/) Kevin Smith, Vodafone
 -   What about service descriptions?
 - [Relative JSON Pointer](https://datatracker.ietf.org/doc/html/draft-hha-relative-json-pointer-00) Henry Andrews
 
 
-## Discussions/Any Other Business
+## Discussions/Any Other Business (10mins)
 
 - (Link hints)[https://datatracker.ietf.org/doc/draft-nottingham-link-hint/]; Mark Nottingham
 - Adoption?
