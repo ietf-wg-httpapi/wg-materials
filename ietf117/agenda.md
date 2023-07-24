@@ -44,7 +44,7 @@ Thursday, July 27, 2023 16:30-18:30 UTC
 - [api-catalog](https://datatracker.ietf.org/doc/draft-smith-api-catalog/) Kevin Smith, Vodafone - What about service descriptions?
 - [Byte Range Patch](https://www.ietf.org/archive/id/draft-wright-http-patch-byterange-03.html); Austin William Wright
 - [Relative JSON Pointer](https://datatracker.ietf.org/doc/html/draft-hha-relative-json-pointer-00) Henry Andrews
-- (Link hints)[https://datatracker.ietf.org/doc/draft-nottingham-link-hint/]; Mark Nottingham
+- [Link hints](https://datatracker.ietf.org/doc/draft-nottingham-link-hint/); Mark Nottingham
 - Adoption?
 
 ## Discussions/Any Other Business (5 mins)
