@@ -1,6 +1,7 @@
 # HTTPAPI WG
  
 IETF 119
+Friday 22 March, 3:00-4:30 UTC
  
 ## Administrivia
 G'day mate
