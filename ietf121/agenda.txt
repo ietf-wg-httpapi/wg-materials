@@ -1,0 +1,23 @@
+A very rough agenda. Darrel, MNot, and I will all be onsite.
+
+The preliminary agenda has us meeting on Wednesday, 13:00-14:30.  I am tempted to tell them we can move down to 60 minutes, any reaction?  Also, if you have new work you want to talk about, feel free to let us know and we can put it in the AOB section.
+
+Chair
+	Note well reminder
+	Document update
+
+Documents
+	Patch-byterange
+	Idempotency-key-header
+	Privacy
+
+Expired documents
+If nothing else, we will be looking for volunteers to help move these forward.
+	Authentication-link
+	Link-hint
+	Rest-api-mediatypes
+	Ratelimit-headers
+
+Any other business
+
+
