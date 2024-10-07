@@ -10,13 +10,16 @@ Documents
 	Patch-byterange
 	Idempotency-key-header
 	Privacy
+	Digest-fields-problem-types
+	HTTPbis signature work
+	Ratelimit-headers
+
 
 Expired documents
 If nothing else, we will be looking for volunteers to help move these forward.
 	Authentication-link
 	Link-hint
 	Rest-api-mediatypes
-	Ratelimit-headers
 
 Any other business
 
