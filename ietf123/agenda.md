@@ -13,14 +13,17 @@
 - Brief document updates
 -- api-catalog published (RFC 9727)
 -- deprecation-header published (RFC 9745)
+-- idempotency coming back to life
 
-- JSON Structure update
+- Update on "JSON Structure"
 
 ## Documents with Content Updates
 
-- link-hint
+- link-hint (first; conflict)
 
 - rest-api-mediatypes
+
+- patch-byterange
 
 ## Documents ready to move to WGLC?
 
@@ -35,8 +38,6 @@
 - HTTP Events Query
 
 ## Expired documents
-
-- patch-byterange
 
 - authentication-link
 
