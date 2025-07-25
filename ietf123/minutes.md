@@ -40,6 +40,7 @@ https://mailman3.ietf.org/mailman3/lists/json-structure.ietf.org/
 - httpapi-privacy (Marius); API keys and privacy. Inspired by a blog posting explainign API key leakage over HTTP. Draft lists a variety of ways to reduce the likelihood of plain-text requests and when to revoke (if credentials are sent) or not (if content just has a signature).
     - *Chairs to issue WGLC and nudge WG members to **Read** this doc*
     - *Chairs to request HTTP directorate review*
+    - *After the meeting, suggested Security directorate; good idea.*
 
 - ratelimit-headers (Darrel); minor reference change since last meeting. Three new problem types (reduction, temporary reduction, identified abnormal behavior). Ask for HTTP review, did not get much and nothing negative. Hearing that people want this.
     - *Chairs to issue WGLC and nudge WG members to **Read** this doc*
