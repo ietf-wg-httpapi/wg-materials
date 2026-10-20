@@ -12,7 +12,11 @@
 
 - Brief document updates
 
-## Finikshing things up
+## Work in progress
+
+- idempotency-key-header
+
+## Finishing things up
 
 - ratelimit-headers
 
@@ -23,8 +27,6 @@
 ## Author status
 
 - link-hint
-
-- idempotency-key-header
 
 ## In progress; WG interest?
 
