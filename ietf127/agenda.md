@@ -1,8 +1,9 @@
 
 # HTTPAPI at IETF 124
 
-- Time TBD
-- Location TBD
+- Date Friday, 20 November 2026
+- Time 19:30 to 20:30 (UTC)
+- Location Golden Gate 3
 
 ## Chair
 
@@ -14,26 +15,26 @@
 
 ## Work in progress
 
-- idempotency-key-header
+- [draft-ietf-httpapi-idempotency-key-header]
 
 ## Finishing things up
 
-- ratelimit-headers
+- [draft-ietf-httpapi-ratelimit-headers]
 
-- rest-api-mediatypes
+- [draft-ietf-httpapi-yaml-mediatypes]
 
-- patch-byterange
+- [draft-ietf-httpapi-link-hint]
 
 ## Author status
 
-- link-hint
+- [draft-ietf-httpapi-patch-byterange]
 
 ## In progress; WG interest?
 
-- events-query
+- [draft-gupta-httpapi-events-query]
 
-- depreciation-mmanifest
+- [draft-ietf-httpapi-deprecation-header]
 
-- authentication-link
+- [draft-ietf-httpapi-authentication-link]
 
 ## Any other business?
