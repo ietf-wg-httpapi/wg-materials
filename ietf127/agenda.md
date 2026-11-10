@@ -29,12 +29,14 @@
 
 - [draft-ietf-httpapi-patch-byterange]
 
-## In progress; WG interest?
-
-- [draft-gupta-httpapi-events-query]
-
 - [draft-ietf-httpapi-deprecation-header]
 
 - [draft-ietf-httpapi-authentication-link]
+
+## In progress; WG interest?
+
+- [draft-nottingham-problem-header]
+
+- [draft-gupta-httpapi-events-query]
 
 ## Any other business?
