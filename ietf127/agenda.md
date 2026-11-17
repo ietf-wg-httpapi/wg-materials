@@ -23,7 +23,7 @@
 
 - [draft-ietf-httpapi-yaml-mediatypes]
 
-- [draft-ietf-httpapi-link-hint]
+- *[draft-ietf-httpapi-link-hint] Moved to end, due to conflict.*
 
 ## Author status
 
@@ -35,8 +35,10 @@
 
 ## In progress; WG interest?
 
+- [draft-gupta-httpapi-events-query]
+
 - [draft-nottingham-problem-header]
 
-- [draft-gupta-httpapi-events-query]
+- [draft-ietf-httpapi-link-hint]
 
 ## Any other business?
